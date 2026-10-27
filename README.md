@@ -11,7 +11,7 @@
 
 <img align="right" alt="Developer coding" width="260" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-- 💡 I'm **Tinsae Bahiru**, an **AI/ML Engineer and Full-Stack Developer**.
+- 💡 I'm **Tinsae Bahiru**, an **AI/Ml Engineer and Full-Stack Developer**.
 - 🛠️ I'm currently building intelligent systems with **Python, FastAPI, Next.js, and Machine Learning**.
 - 🧠 I work on **Computer Vision, NLP, OCR, Fraud Detection, and Cybersecurity ML**.
 - 🌱 I'm improving my skills in **LLMs, RAG, MLOps, and scalable AI systems**.
