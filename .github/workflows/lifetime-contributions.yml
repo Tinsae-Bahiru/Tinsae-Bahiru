@@ -1,0 +1,27 @@
+
+name: Lifetime GitHub Contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate lifetime statistics
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Tinsae-Bahiru
+          cards: overview,lifetime
+          output-dir: assets/contributions
+          themes: light,dark
+          commit: true
