@@ -68,7 +68,8 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Tinsae-Bahiru&theme=tokyonight&hide_border=true"
-    alt="Tinsae Bahiru GitHub streak stats"
+    src="https://streak-stats.demolab.com?user=Tinsae-Bahiru&amp;theme=tokyonight&amp;hide_border=true&amp;starting_year=2023"
+    alt="Tinsae Bahiru GitHub streak statistics"
   />
 </div>
+
