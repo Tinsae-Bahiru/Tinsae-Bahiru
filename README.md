@@ -1,43 +1,3 @@
-<!-- START: TERMINAL PROFILE (portrait is unchanged; right side is editable HTML text) -->
-<table width="100%" align="center">
-  <tr>
-    <td width="46%" align="center" valign="middle">
-      <img src="./tinsae-portrait-tall-final.png" width="390" alt="Tinsae Bahiru original ASCII portrait" />
-    </td>
-    <td width="54%" align="left" valign="middle">
-      <strong><a href="https://github.com/Tinsae-Bahiru"><samp>─ Tinsae-Bahiru@github ─────────────────────────────────</samp></a></strong><br>
-      <samp>• Name: ........................ Tinsae Bahiru</samp><br>
-      <samp>• Role: ........................ AI/ML Engineer</samp><br>
-      <samp>• Development: ................. Full-Stack Developer</samp><br>
-      <samp>• Location: .................... Addis Ababa, Ethiopia</samp><br>
-      <!-- PROFILE_LIVE_START -->
-      <samp>• GitHub uptime: ............... —</samp><br>
-      <samp>• Languages: ................... —</samp><br>
-      <!-- PROFILE_LIVE_END -->
-      <br>
-      <strong><a href="mailto:tinsaiebbs@gmail.com"><samp>─ Contact ─────────────────────────────────────────────</samp></a></strong><br>
-      <samp>• Email: ....................... </samp><a href="mailto:tinsaiebbs@gmail.com">tinsaiebbs@gmail.com</a><br>
-      <samp>• GitHub: ...................... </samp><a href="https://github.com/Tinsae-Bahiru">github.com/Tinsae-Bahiru</a><br>
-      <samp>• X/Twitter: ................... </samp><a href="https://twitter.com/tinsaie_b">@tinsaie_b</a><br>
-      <br>
-      <strong><a href="https://github.com/Tinsae-Bahiru?tab=repositories"><samp>─ GitHub Stats ───────────────────────────────────────</samp></a></strong><br>
-      <!-- GITHUB_STATS_START -->
-      <samp>• Repos: .......... 16 │ Stars earned: .......... —</samp><br>
-      <samp>• Forks earned: ... —  │ Followers: ............ 11</samp><br>
-      <samp>• Following: ..... 10 │ Top repo stars: ........ —</samp><br>
-      <samp>• Top repo: .......... —</samp><br>
-      <br>
-      <strong><a href="https://github.com/Tinsae-Bahiru?tab=overview"><samp>─ Last 12 Months ─────────────────────────────────────</samp></a></strong><br>
-      <samp>• Contributions: .. — │ Reviews: ............... —</samp><br>
-      <samp>• Commits: ........ — │ PRs: ................... —</samp><br>
-      <samp>• Issues: ......... —</samp><br>
-      <samp>• Activity: —</samp>
-      <!-- GITHUB_STATS_END -->
-    </td>
-  </tr>
-</table>
-<!-- END: TERMINAL PROFILE -->
-
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1000&color=FF3D9A&center=true&vCenter=true&repeat=true&width=700&height=70&lines=I%27m+Tinsae"
@@ -45,18 +5,24 @@
   />
 </div>
 
-💫 About Me
+---
+
+## 💫 About Me
+
 <img align="right" alt="Developer coding" width="260" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-- 💡 I'm Tinsae Bahiru, an AI/Ml Engineer and Full-Stack Developer.
-- 🛠️ I'm currently building intelligent systems with Python, FastAPI, Next.js, and Machine Learning.
-- 🧠 I work on Computer Vision, NLP, OCR, Fraud Detection, and Cybersecurity ML.
-- 🌱 I'm improving my skills in LLMs, RAG, MLOps, and scalable AI systems.
-- 💬 Ask me about Python, Machine Learning, Deep Learning, FastAPI, React, and Next.js.
-- 📫 Contact me at tinsaiebbs@gmail.com.
-- 🤝 I'm open to collaborating on AI, Full-Stack, and Open-Source projects.
-- ⚡ Fun fact: I enjoy turning difficult real-world problems into practical software solutions.
+- 💡 I'm **Tinsae Bahiru**, an **AI/Ml Engineer and Full-Stack Developer**.
+- 🛠️ I'm currently building intelligent systems with **Python, FastAPI, Next.js, and Machine Learning**.
+- 🧠 I work on **Computer Vision, NLP, OCR, Fraud Detection, and Cybersecurity ML**.
+- 🌱 I'm improving my skills in **LLMs, RAG, MLOps, and scalable AI systems**.
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, FastAPI, React, and Next.js**.
+- 📫 Contact me at **[tinsaiebbs@gmail.com](mailto:tinsaiebbs@gmail.com)**.
+- 🤝 I'm open to collaborating on **AI, Full-Stack, and Open-Source projects**.
+- ⚡ Fun fact: I enjoy turning difficult real-world problems into **practical software solutions**.
+
 <br clear="right" />
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tinsae-Bahiru/Tinsae-Bahiru/output/github-snake-dark.svg" />
@@ -64,7 +30,10 @@
   <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Tinsae-Bahiru/Tinsae-Bahiru/output/github-snake.svg" />
 </picture>
 
-🌐 Socials
+---
+
+## 🌐 Socials
+
 <p align="left">
   <a href="https://www.linkedin.com/in/tinsae-bahiru-60569a379/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
@@ -83,7 +52,8 @@
   </a>
 </p>
 
-💻 Tech Stack
+## 💻 Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,fastapi,django,flask,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap&theme=dark&perline=15" alt="Main technology stack" />
 </p>
@@ -92,7 +62,10 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,postgres,mysql,mongodb,redis,docker,git,github,linux,aws,postman,vscode&theme=dark&perline=15" alt="AI, data, and development tools" />
 </p>
 
-📈 GitHub Streak
+---
+
+## 📈 GitHub Streak
+
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=Tinsae-Bahiru&amp;theme=tokyonight&amp;hide_border=true&amp;starting_year=2023"
