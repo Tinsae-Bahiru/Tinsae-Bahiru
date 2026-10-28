@@ -1,42 +1,40 @@
-<!-- BEGIN: TINSAE ASCII PORTRAIT + EDITABLE GITHUB DETAILS -->
-<!-- The portrait file is unchanged. The right column is real HTML text in this Markdown file, NOT an image. -->
-<table>
+<!-- START: TERMINAL PROFILE (editable GitHub Markdown/HTML, not a flattened image) -->
+<table width="100%">
   <tr>
-    <td width="35%" align="center" valign="top">
-      <img src="./tinsae-portrait-terminal.png" width="270" alt="Tinsae Bahiru ASCII portrait" />
+    <td width="43%" align="center" valign="middle">
+      <img src="./tinsae-portrait-terminal.png" width="335" alt="Tinsae Bahiru original ASCII terminal portrait" />
     </td>
-    <td width="65%" align="left" valign="top">
-      <strong><code>Tinsae-Bahiru@github</code></strong><br>
-      <sub>────────────────────────────────</sub><br>
-      <b>👤 Name:</b> Tinsae Bahiru<br>
-      <b>💼 Role:</b> AI/ML Engineer &amp; Full-Stack Developer<br>
-      <b>📍 Location:</b> Addis Ababa, Ethiopia<br>
-      <b>💻 Languages:</b> Python · JavaScript · TypeScript<br>
-      <b>🧠 Interests:</b> Computer Vision · NLP · OCR · Cybersecurity ML<br>
+    <td width="57%" align="left" valign="middle">
+      <strong><a href="https://github.com/Tinsae-Bahiru">─ Tinsae-Bahiru@github ────────────────</a></strong><br>
+      <samp>• Name: .............. <strong>Tinsae Bahiru</strong></samp><br>
+      <samp>• Role: .............. AI/ML Engineer</samp><br>
+      <samp>• Development: ....... Full-Stack</samp><br>
+      <samp>• Location: .......... Addis Ababa</samp><br>
+      <!-- PROFILE_LIVE_START -->
+      <samp>• GitHub uptime: ...... —</samp><br>
+      <samp>• Languages: ......... —</samp><br>
+      <!-- PROFILE_LIVE_END -->
       <br>
-      <strong>Contact</strong><br>
-      <sub>────────────────────────────────</sub><br>
-      <b>📧 Email:</b> <a href="mailto:tinsaiebbs@gmail.com">tinsaiebbs@gmail.com</a><br>
-      <b>🔗 GitHub:</b> <a href="https://github.com/Tinsae-Bahiru">Tinsae-Bahiru</a><br>
+      <strong><a href="mailto:tinsaiebbs@gmail.com">─ Contact ─────────────────────────────</a></strong><br>
+      <samp>• Email: </samp><a href="mailto:tinsaiebbs@gmail.com">tinsaiebbs@gmail.com</a><br>
+      <samp>• GitHub: </samp><a href="https://github.com/Tinsae-Bahiru">github.com/Tinsae-Bahiru</a><br>
+      <samp>• X/Twitter: </samp><a href="https://twitter.com/tinsaie_b">@tinsaie_b</a><br>
       <br>
-      <strong>GitHub Stats</strong><br>
-      <sub>────────────────────────────────</sub><br>
+      <strong><a href="https://github.com/Tinsae-Bahiru?tab=repositories">─ GitHub Stats ────────────────────────</a></strong><br>
       <!-- GITHUB_STATS_START -->
-      <strong>Repositories:</strong> — &nbsp; | &nbsp; <strong>Stars earned:</strong> —<br>
-      <strong>Followers:</strong> — &nbsp; | &nbsp; <strong>Following:</strong> —<br>
-      <strong>Forks earned:</strong> —<br>
-      <strong>Top repository:</strong> —<br>
-      <strong>Top languages (public repositories):</strong> —<br>
+      <samp>• Repos: ........ 16 │ Stars: ......... —</samp><br>
+      <samp>• Forks: ......... — │ Followers: .... 11</samp><br>
+      <samp>• Following: .... 10 │ Top repo: ...... —</samp><br>
       <br>
-      <strong>Last 12 Months</strong><br>
-      <sub>────────────────────────────────</sub><br>
-      <strong>Contributions:</strong> — &nbsp; | &nbsp; <strong>Commits:</strong> —<br>
-      <strong>PRs:</strong> — &nbsp; | &nbsp; <strong>Issues:</strong> — &nbsp; | &nbsp; <strong>Reviews:</strong> —
+      <strong><a href="https://github.com/Tinsae-Bahiru?tab=overview">─ Last 12 Months ──────────────────────</a></strong><br>
+      <samp>• Contributions: — │ Reviews: —</samp><br>
+      <samp>• Commits: — │ PRs: — │ Issues: —</samp><br>
+      <samp>• Activity: —</samp>
       <!-- GITHUB_STATS_END -->
     </td>
   </tr>
 </table>
-<!-- END: TINSAE ASCII PORTRAIT + EDITABLE GITHUB DETAILS -->
+<!-- END: TERMINAL PROFILE -->
 
 <div align="center">
   <img
