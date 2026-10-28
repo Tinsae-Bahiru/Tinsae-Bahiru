@@ -1,25 +1,42 @@
-<!-- BEGIN: PORTRAIT + LIVE TEXT (only this top section is newly added) -->
-<img align="left" src="./tinsae-portrait-terminal.png" width="235" alt="Tinsae Bahiru original ASCII portrait" />
-
-Tinsae-Bahiru@github
-Name: Tinsae Bahiru
-Role: AI/ML Engineer & Full-Stack Developer
-Location: Addis Ababa, Ethiopia
-Languages: Python · JavaScript · TypeScript
-Focus: Computer Vision · NLP · OCR · Cybersecurity ML
-Contact: tinsaiebbs@gmail.com
-GitHub: github.com/Tinsae-Bahiru
-GitHub Stats · live Markdown text
-<!-- GITHUB_STATS_START -->
-Repositories: 16   |   Followers: 11   |   Following: 10
-Stars earned: —   |   Forks: —
-Top repo: —
-Contributions (past 12 months): —
-Top languages (public original repositories): —
-<!-- GITHUB_STATS_END -->
-
-<br clear="left" />
-<!-- END: PORTRAIT + LIVE TEXT -->
+<!-- BEGIN: TINSAE ASCII PORTRAIT + EDITABLE GITHUB DETAILS -->
+<!-- The portrait file is unchanged. The right column is real HTML text in this Markdown file, NOT an image. -->
+<table>
+  <tr>
+    <td width="35%" align="center" valign="top">
+      <img src="./tinsae-portrait-terminal.png" width="270" alt="Tinsae Bahiru ASCII portrait" />
+    </td>
+    <td width="65%" align="left" valign="top">
+      <strong><code>Tinsae-Bahiru@github</code></strong><br>
+      <sub>────────────────────────────────</sub><br>
+      <b>👤 Name:</b> Tinsae Bahiru<br>
+      <b>💼 Role:</b> AI/ML Engineer &amp; Full-Stack Developer<br>
+      <b>📍 Location:</b> Addis Ababa, Ethiopia<br>
+      <b>💻 Languages:</b> Python · JavaScript · TypeScript<br>
+      <b>🧠 Interests:</b> Computer Vision · NLP · OCR · Cybersecurity ML<br>
+      <br>
+      <strong>Contact</strong><br>
+      <sub>────────────────────────────────</sub><br>
+      <b>📧 Email:</b> <a href="mailto:tinsaiebbs@gmail.com">tinsaiebbs@gmail.com</a><br>
+      <b>🔗 GitHub:</b> <a href="https://github.com/Tinsae-Bahiru">Tinsae-Bahiru</a><br>
+      <br>
+      <strong>GitHub Stats</strong><br>
+      <sub>────────────────────────────────</sub><br>
+      <!-- GITHUB_STATS_START -->
+      <strong>Repositories:</strong> — &nbsp; | &nbsp; <strong>Stars earned:</strong> —<br>
+      <strong>Followers:</strong> — &nbsp; | &nbsp; <strong>Following:</strong> —<br>
+      <strong>Forks earned:</strong> —<br>
+      <strong>Top repository:</strong> —<br>
+      <strong>Top languages (public repositories):</strong> —<br>
+      <br>
+      <strong>Last 12 Months</strong><br>
+      <sub>────────────────────────────────</sub><br>
+      <strong>Contributions:</strong> — &nbsp; | &nbsp; <strong>Commits:</strong> —<br>
+      <strong>PRs:</strong> — &nbsp; | &nbsp; <strong>Issues:</strong> — &nbsp; | &nbsp; <strong>Reviews:</strong> —
+      <!-- GITHUB_STATS_END -->
+    </td>
+  </tr>
+</table>
+<!-- END: TINSAE ASCII PORTRAIT + EDITABLE GITHUB DETAILS -->
 
 <div align="center">
   <img
@@ -79,6 +96,7 @@ Top languages (public original repositories): —
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=Tinsae-Bahiru&amp;theme=tokyonight&amp;hide_border=true&amp;starting_year=2023"
+    alt="Tinsae Bahiru GitHub streak statistics"
     alt="Live GitHub contributions and streak"
     width="495"
   />
