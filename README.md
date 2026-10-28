@@ -2,7 +2,7 @@
 <table width="100%" align="center">
   <tr>
     <td width="46%" align="center" valign="middle">
-      <img src="./tinsae-portrait-terminal.png" width="390" alt="Tinsae Bahiru original ASCII portrait" />
+      <img src="./tinsae-portrait-tall-final.png" width="390" alt="Tinsae Bahiru original ASCII portrait" />
     </td>
     <td width="54%" align="left" valign="middle">
       <strong><a href="https://github.com/Tinsae-Bahiru"><samp>─ Tinsae-Bahiru@github ─────────────────────────────────</samp></a></strong><br>
