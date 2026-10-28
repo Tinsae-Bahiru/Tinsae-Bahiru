@@ -1,34 +1,36 @@
-<!-- START: TERMINAL PROFILE (editable GitHub Markdown/HTML, not a flattened image) -->
-<table width="100%">
+<!-- START: TERMINAL PROFILE (portrait is unchanged; right side is editable HTML text) -->
+<table width="100%" align="center">
   <tr>
-    <td width="43%" align="center" valign="middle">
-      <img src="./tinsae-portrait-terminal.png" width="335" alt="Tinsae Bahiru original ASCII terminal portrait" />
+    <td width="46%" align="center" valign="middle">
+      <img src="./tinsae-portrait-terminal.png" width="390" alt="Tinsae Bahiru original ASCII portrait" />
     </td>
-    <td width="57%" align="left" valign="middle">
-      <strong><a href="https://github.com/Tinsae-Bahiru">─ Tinsae-Bahiru@github ────────────────</a></strong><br>
-      <samp>• Name: .............. <strong>Tinsae Bahiru</strong></samp><br>
-      <samp>• Role: .............. AI/ML Engineer</samp><br>
-      <samp>• Development: ....... Full-Stack</samp><br>
-      <samp>• Location: .......... Addis Ababa</samp><br>
+    <td width="54%" align="left" valign="middle">
+      <strong><a href="https://github.com/Tinsae-Bahiru"><samp>─ Tinsae-Bahiru@github ─────────────────────────────────</samp></a></strong><br>
+      <samp>• Name: ........................ Tinsae Bahiru</samp><br>
+      <samp>• Role: ........................ AI/ML Engineer</samp><br>
+      <samp>• Development: ................. Full-Stack Developer</samp><br>
+      <samp>• Location: .................... Addis Ababa, Ethiopia</samp><br>
       <!-- PROFILE_LIVE_START -->
-      <samp>• GitHub uptime: ...... —</samp><br>
-      <samp>• Languages: ......... —</samp><br>
+      <samp>• GitHub uptime: ............... —</samp><br>
+      <samp>• Languages: ................... —</samp><br>
       <!-- PROFILE_LIVE_END -->
       <br>
-      <strong><a href="mailto:tinsaiebbs@gmail.com">─ Contact ─────────────────────────────</a></strong><br>
-      <samp>• Email: </samp><a href="mailto:tinsaiebbs@gmail.com">tinsaiebbs@gmail.com</a><br>
-      <samp>• GitHub: </samp><a href="https://github.com/Tinsae-Bahiru">github.com/Tinsae-Bahiru</a><br>
-      <samp>• X/Twitter: </samp><a href="https://twitter.com/tinsaie_b">@tinsaie_b</a><br>
+      <strong><a href="mailto:tinsaiebbs@gmail.com"><samp>─ Contact ─────────────────────────────────────────────</samp></a></strong><br>
+      <samp>• Email: ....................... </samp><a href="mailto:tinsaiebbs@gmail.com">tinsaiebbs@gmail.com</a><br>
+      <samp>• GitHub: ...................... </samp><a href="https://github.com/Tinsae-Bahiru">github.com/Tinsae-Bahiru</a><br>
+      <samp>• X/Twitter: ................... </samp><a href="https://twitter.com/tinsaie_b">@tinsaie_b</a><br>
       <br>
-      <strong><a href="https://github.com/Tinsae-Bahiru?tab=repositories">─ GitHub Stats ────────────────────────</a></strong><br>
+      <strong><a href="https://github.com/Tinsae-Bahiru?tab=repositories"><samp>─ GitHub Stats ───────────────────────────────────────</samp></a></strong><br>
       <!-- GITHUB_STATS_START -->
-      <samp>• Repos: ........ 16 │ Stars: ......... —</samp><br>
-      <samp>• Forks: ......... — │ Followers: .... 11</samp><br>
-      <samp>• Following: .... 10 │ Top repo: ...... —</samp><br>
+      <samp>• Repos: .......... 16 │ Stars earned: .......... —</samp><br>
+      <samp>• Forks earned: ... —  │ Followers: ............ 11</samp><br>
+      <samp>• Following: ..... 10 │ Top repo stars: ........ —</samp><br>
+      <samp>• Top repo: .......... —</samp><br>
       <br>
-      <strong><a href="https://github.com/Tinsae-Bahiru?tab=overview">─ Last 12 Months ──────────────────────</a></strong><br>
-      <samp>• Contributions: — │ Reviews: —</samp><br>
-      <samp>• Commits: — │ PRs: — │ Issues: —</samp><br>
+      <strong><a href="https://github.com/Tinsae-Bahiru?tab=overview"><samp>─ Last 12 Months ─────────────────────────────────────</samp></a></strong><br>
+      <samp>• Contributions: .. — │ Reviews: ............... —</samp><br>
+      <samp>• Commits: ........ — │ PRs: ................... —</samp><br>
+      <samp>• Issues: ......... —</samp><br>
       <samp>• Activity: —</samp>
       <!-- GITHUB_STATS_END -->
     </td>
